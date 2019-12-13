@@ -1,0 +1,95 @@
+.dropbtn {
+  background-color: white;
+  border: none;
+  color: black;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  background-color: white;
+}
+.dropdown:hover .dropdown-content {display: block;}
+h1 {
+  text-align: center;
+  font-family: Alatsi, sans-serif;
+  font-size: 50px;
+}
+img {
+  width: 400px;
+  height: 400px;
+  align-items: center;
+}
+.naruto {
+  width: 400px;
+  height: 400px;
+}
+.sasuke{
+  width: 400px;
+  height: 400px;
+}
+.deku {
+  width: 320px;
+  height: 450px;
+}
+.goku {
+  width: 450px;
+  height: 450px;
+}
+.vegeta {
+  width: 350px;
+  height: 450px;
+}
+.piccolo {
+  height: 450px;
+  width: 320px;
+}
+.dio {
+  height: 400px;
+  width: 250px;
+}
+.joseph{
+  width: 230px;
+  height: 400px;
+}
+.caesar {
+  height: 400px;
+  width: 350px;
+}
+.josuke {
+  height: 450px;
+  width: 270px;
+}
+.giorno {
+  height: 400px;
+  width: 250px;
+}
+table {
+  background-color: #1A2A4F;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.table-left {
+  background-color: #1A2A4F;
+  width: 300px;
+  margin-left: auto;
+}
+tr {
+    background-color: #4F78D1;
+    text-align: left;
+}
+body {
+background-color: #AD87A4
+}
+p {
+  text-align: center;
+  font-size: 18px;
+}
